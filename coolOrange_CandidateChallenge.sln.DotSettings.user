@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/Library/Frameworks/Mono.framework/Versions/6.12.0/lib/mono/4.8-api/System.Core.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=48cedde4_002Dba9d_002D4d81_002Dbee1_002D006c7c4a7d49/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;coolOrange_CandidateChallengeTest&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/juk1n/Desktop/praktikum/coolOrange_CandidateChallenge/Project/coolOrange_CandidateChallengeTest" Presentation="&amp;lt;coolOrange_CandidateChallengeTest&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/EnvironmentVariablesIndexed/=DOTNET_005FENVIROMENT/@EntryIndexedValue">Development</s:String>
+	
+	
+	
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/EnvironmentVariablesIndexed/=DOTNET_005FENVIRONMENT/@EntryIndexedValue"></s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/EnvironmentVariablesIndexed/=DOTNET_005FENVIRONMENT/@EntryIndexRemoved">True</s:Boolean>
+	
+	
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/EnvironmentVariablesIndexed/=RESHARPER_005FHOST_005FVERSION/@EntryIndexRemoved">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/EnvironmentVariablesIndexed/=RESHARPER_005FHOST/@EntryIndexRemoved">True</s:Boolean></wpf:ResourceDictionary>
